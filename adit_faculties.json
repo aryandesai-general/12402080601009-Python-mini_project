@@ -1,0 +1,410 @@
+[
+  {
+    "dept": "CE",
+    "name": "Dr. Bhagirath Prajapati",
+    "designation": "Associate Professor and Head",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/56.jpg"
+  },
+  {
+    "dept": "CE",
+    "name": "Dr. Dheeraj Kumar Singh",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/DKS.jpg"
+  },
+  {
+    "dept": "CE",
+    "name": "Kurtkoti Aniruddha",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/63.jpg"
+  },
+  {
+    "dept": "CE",
+    "name": "Joshi Chinmay",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/271.jpg"
+  },
+  {
+    "dept": "CE",
+    "name": "Thakkar Prerak",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/335.jpg"
+  },
+  {
+    "dept": "CE",
+    "name": "Axit Jaykumar Kachhia",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/270722.jpg"
+  },
+  {
+    "dept": "CE",
+    "name": "Kinjal Parmar",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/1027.jpg"
+  },
+  {
+    "dept": "CE",
+    "name": "Sheetal J. Macwan",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/sheetal.jpg"
+  },
+  {
+    "dept": "CE",
+    "name": "Jayshree Parmar",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/09072024.jpg"
+  },
+  {
+    "dept": "CE",
+    "name": "Sarfaraz Jarda",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/1066.jpg"
+  },
+  {
+    "dept": "CE",
+    "name": "Paresha S. Brahmbhatt",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/05072024.jpg"
+  },
+  {
+    "dept": "CE",
+    "name": "Vishwadip Nanavati",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/VD_CP.jpg"
+  },
+  {
+    "dept": "CE",
+    "name": "Tejas Rana",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/TJ.png"
+  },
+  {
+    "dept": "CE",
+    "name": "Jalpa Kandoriya",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/Jalpa.jpeg"
+  },
+  {
+    "dept": "CE",
+    "name": "Barkha Mehta",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/Barkha_CP.jpg"
+  },
+  {
+    "dept": "IT",
+    "name": "Dr. Narendrasinh C Chauhan",
+    "designation": "Professor and Head",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/42.jpg"
+  },
+  {
+    "dept": "IT",
+    "name": "Dr. D J Prajapati",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/66.jpg"
+  },
+  {
+    "dept": "IT",
+    "name": "Patel Jitikshakumari",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/294.jpg"
+  },
+  {
+    "dept": "IT",
+    "name": "Patel Hemanshu A",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/322.jpg"
+  },
+  {
+    "dept": "IT",
+    "name": "Mali Nayankumar M",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/336.jpg"
+  },
+  {
+    "dept": "IT",
+    "name": "Patel Keyur J",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/1039.jpg"
+  },
+  {
+    "dept": "IT",
+    "name": "Ajmeri Mayur Bharatkumar",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/23052022.jpg"
+  },
+  {
+    "dept": "IT",
+    "name": "Himani Joshi",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/1038.jpg"
+  },
+  {
+    "dept": "IT",
+    "name": "Rajput Anjali",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/17072023.jpg"
+  },
+  {
+    "dept": "IT",
+    "name": "Riddhi Shukla",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/20230823.jpg"
+  },
+  {
+    "dept": "IT",
+    "name": "Khushali B. Patel",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/202306.jpg"
+  },
+  {
+    "dept": "IT",
+    "name": "Ranna Makwana",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/20230824.jpg"
+  },
+  {
+    "dept": "IT",
+    "name": "Vimal G. Bhatt",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/20230829.jpg"
+  },
+  {
+    "dept": "IT",
+    "name": "Dr. Trilok Suthar",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/20230901.jpg"
+  },
+  {
+    "dept": "IT",
+    "name": "Chauhan Anu",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/anu.jpg"
+  },
+  {
+    "dept": "IT",
+    "name": "SHAH PRIYANSHI KETANKUMAR",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/Priyanshi Shah.jpg"
+  },
+  {
+    "dept": "IT",
+    "name": "Khushi Bharadva",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/Khushi Bharavda.jpg"
+  },
+  {
+    "dept": "IT",
+    "name": "Kavya Prajapati",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/IMG_8027.png"
+  },
+  {
+    "dept": "IT",
+    "name": "Priyanka Gondaliya",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/IMG_8025.png"
+  },
+  {
+    "dept": "ME",
+    "name": "Dr. Vishal N Singh",
+    "designation": "Professor & Principal",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/85.jpg"
+  },
+  {
+    "dept": "ME",
+    "name": "Dr. Yashavant D Patel",
+    "designation": "Associate Professor & Head",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/88.jpg"
+  },
+  {
+    "dept": "ME",
+    "name": "Dr. Mitesh I Shah",
+    "designation": "Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/87.jpg"
+  },
+  {
+    "dept": "ME",
+    "name": "Dr. Ayanesh Y Joshi",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/50.jpg"
+  },
+  {
+    "dept": "ME",
+    "name": "Dr. Ronak R Shah",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/90.jpg"
+  },
+  {
+    "dept": "ME",
+    "name": "Dr. Manisha V Makwana",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/manisha.jpg"
+  },
+  {
+    "dept": "ME",
+    "name": "Bhaumik J Sheth",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/249.jpg"
+  },
+  {
+    "dept": "ME",
+    "name": "Mehul B Patel",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/272.jpg"
+  },
+  {
+    "dept": "ME",
+    "name": "Krunal J Shah",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/273.jpg"
+  },
+  {
+    "dept": "ME",
+    "name": "Harsh B Joshi",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/263.jpg"
+  },
+  {
+    "dept": "ME",
+    "name": "Tejas R Prajapati",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/299.jpg"
+  },
+  {
+    "dept": "ME",
+    "name": "Ruchir J Desai",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/305.jpg"
+  },
+  {
+    "dept": "ME",
+    "name": "Maharshi H Thakkar",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/338.jpg"
+  },
+  {
+    "dept": "ME",
+    "name": "Vaishal J Banker",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/337.jpg"
+  },
+  {
+    "dept": "ME",
+    "name": "Jagruti Jadav",
+    "designation": "Assistant Professor(Adhoc)",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/jagruti.JPG"
+  },
+  {
+    "dept": "ME",
+    "name": "Bhavesh Parmar",
+    "designation": "Assistant Professor(Adhoc)",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/bhavesh.jpg"
+  },
+  {
+    "dept": "Civil",
+    "name": "Dr. Rajiv Bhatt",
+    "designation": "Associate Professor and Head",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/98.jpg"
+  },
+  {
+    "dept": "Civil",
+    "name": "Yagnik Darshan M.",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/101.jpg"
+  },
+  {
+    "dept": "Civil",
+    "name": "Dr. Drashti K. Bhatt",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/295.jpg"
+  },
+  {
+    "dept": "Civil",
+    "name": "Patel Bhavin Vishnubhai",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/245.jpg"
+  },
+  {
+    "dept": "Civil",
+    "name": "Shah Axay",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/339.jpg"
+  },
+  {
+    "dept": "Civil",
+    "name": "Ms. Chhaya Bhrambhatt",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/1065.jpg"
+  },
+  {
+    "dept": "EE",
+    "name": "Dr. Hardik Shah",
+    "designation": "Associate Professor and I/C Head",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/77.jpg"
+  },
+  {
+    "dept": "EE",
+    "name": "Dr. Hetal Patel - Deputed CVMU",
+    "designation": "Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/2.jpg"
+  },
+  {
+    "dept": "EE",
+    "name": "Dr. Kalpesh Chudasama",
+    "designation": "Associate Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/79.jpg"
+  },
+  {
+    "dept": "EE",
+    "name": "Minesh Joshi - Deputed CVMU",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/244.jpg"
+  },
+  {
+    "dept": "EE",
+    "name": "Paresh R. Modha",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/259.jpg"
+  },
+  {
+    "dept": "EE",
+    "name": "Dr. Kalpeshkumar M Shah",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/11.jpg"
+  },
+  {
+    "dept": "EE",
+    "name": "VISHAL S SHETH",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/262.jpg"
+  },
+  {
+    "dept": "EE",
+    "name": "Khushali A. Shah",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/12.jpg"
+  },
+  {
+    "dept": "EE",
+    "name": "Dr. Dhaval Tailor",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/303.jpg"
+  },
+  {
+    "dept": "EE",
+    "name": "Sanket Prajapati",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/22062024.jpg"
+  },
+  {
+    "dept": "EE",
+    "name": "Vishal Chauhan",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/21062024.jpg"
+  },
+  {
+    "dept": "EE",
+    "name": "Surbhi Patil",
+    "designation": "Assistant Professor",
+    "img": "https://adit.ac.in/old_website/assets/images/faculty/surbhi.jpg"
+  }
+]
